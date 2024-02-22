@@ -52,7 +52,7 @@ Some hosting providers maintain their own Remix templates. For more information,
 We also provide a [community-driven examples repository][examples], with each example showcasing different Remix features, patterns, tools, hosting providers, etc. You can use these in a similar manner to install the working example:
 
 ```shellscript nonumber
-npx create-remix@latest --template remix-run/examples/basic
+npx create-remix@latest --template remix-run/examples/tailwind
 ```
 
 ## Stacks
